@@ -1,0 +1,15 @@
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\bin\Debug\net6.0\AlgoritimizaceRekurzeBruteForce.exe
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\bin\Debug\net6.0\AlgoritimizaceRekurzeBruteForce.deps.json
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\bin\Debug\net6.0\AlgoritimizaceRekurzeBruteForce.runtimeconfig.json
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\bin\Debug\net6.0\AlgoritimizaceRekurzeBruteForce.dll
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\bin\Debug\net6.0\AlgoritimizaceRekurzeBruteForce.pdb
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\obj\Debug\net6.0\AlgoritimizaceRekurzeBruteForce.csproj.AssemblyReference.cache
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\obj\Debug\net6.0\AlgoritimizaceRekurzeBruteForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\obj\Debug\net6.0\AlgoritimizaceRekurzeBruteForce.AssemblyInfoInputs.cache
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\obj\Debug\net6.0\AlgoritimizaceRekurzeBruteForce.AssemblyInfo.cs
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\obj\Debug\net6.0\AlgoritimizaceRekurzeBruteForce.csproj.CoreCompileInputs.cache
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\obj\Debug\net6.0\AlgoritimizaceRekurzeBruteForce.dll
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\obj\Debug\net6.0\refint\AlgoritimizaceRekurzeBruteForce.dll
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\obj\Debug\net6.0\AlgoritimizaceRekurzeBruteForce.pdb
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\obj\Debug\net6.0\AlgoritimizaceRekurzeBruteForce.genruntimeconfig.cache
+C:\Users\kinto\C#Dev\AlgoritimizaceRekurzeBruteForce\AlgoritimizaceRekurzeBruteForce\obj\Debug\net6.0\ref\AlgoritimizaceRekurzeBruteForce.dll
